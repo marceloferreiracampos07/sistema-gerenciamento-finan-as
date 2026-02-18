@@ -18,7 +18,7 @@ Para garantir um código limpo e fácil de manter, o sistema foi dividido em tr�
 
 ## 🛠️ Tecnologias Utilizadas
 
-* **Linguagem:** C# (.NET 8/9)
+* **Linguagem:** C# (.NET 10)
 * **Paradigma:** Orientação a Objetos
 * **Versionamento:** Git
 
